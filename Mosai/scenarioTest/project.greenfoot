@@ -1,0 +1,12 @@
+#Greenfoot properties
+#Tue Oct 22 16:25:56 PDT 2013
+class.movementClass.superclass=greenfoot.Actor
+class.world.image=crumpled-paper.jpg
+class.sprite2.image=gold-ball.png
+project.charset=UTF-8
+version=2.5.0
+world.lastInstantiated=world
+class.sprite2.superclass=movementClass
+class.sprite1.image=gold-ball.png
+class.world.superclass=greenfoot.World
+class.sprite1.superclass=movementClass
